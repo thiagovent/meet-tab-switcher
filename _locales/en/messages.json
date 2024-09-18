@@ -1,0 +1,19 @@
+{
+    "appName": {
+      "message": "Meet Tab Switcher",
+      "description": "Name of the extension"
+    },
+    "description": {
+      "message": "Locate and switch between Google Meet tabs",
+      "description": "Description of the extension"
+    },
+    "noMeetTabs": {
+      "message": "No open meeting found",
+      "description": "Message displayed when no Google Meet tabs are open"
+    },
+    "selectMeetTab": {
+      "message": "Select Google Meet tab",
+      "description": "Title of the popup"
+    }
+  }
+  

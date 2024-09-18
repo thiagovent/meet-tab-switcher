@@ -1,0 +1,19 @@
+{
+    "appName": {
+      "message": "Alternador de Abas do Meet (Meet Tab Switcher)",
+      "description": "Nome da extensão"
+    },
+    "description": {
+      "message": "Localiza e alterna entre abas do Google Meet",
+      "description": "Descrição da extensão"
+    },
+    "noMeetTabs": {
+      "message": "Nenhuma reunião aberta",
+      "description": "Mensagem exibida quando não há abas do Google Meet abertas"
+    },
+    "selectMeetTab": {
+      "message": "Selecionar aba do Google Meet",
+      "description": "Título do popup"
+    }
+  }
+  
